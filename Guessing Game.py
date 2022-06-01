@@ -29,5 +29,5 @@ def guess(x):
     #If the guessed number matches the randomly generated number then display congratulation message.
     print("Congratulations you guessed correctly, the number was: %d" % random_number)
 
-#Call the guess function (here the upper limit is set to 10).
-guess(10)
+#Call the guess function (here the upper limit is set to 100).
+guess(100)
